@@ -1,0 +1,5 @@
+streamlit>=1.28.0
+plotly>=5.18.0
+pandas>=2.0.0
+# Main package from parent directory
+-e ..
